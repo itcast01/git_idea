@@ -12,9 +12,11 @@ public class FirstClass {
         System.out.println("哈哈哈哈哈哈哈或");
         System.out.println("哈哈哈哈哈哈哈或");
         System.out.println("哈哈哈哈哈哈哈或");
+        //哈哈
     }
     public void aaa(){
         int a =0;
         a+=10;
+        System.out.println(a);
     }
 }
