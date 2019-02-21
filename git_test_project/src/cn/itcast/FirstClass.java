@@ -13,4 +13,8 @@ public class FirstClass {
         System.out.println("哈哈哈哈哈哈哈或");
         System.out.println("哈哈哈哈哈哈哈或");
     }
+    public void aaa(){
+        int a =0;
+        a+=10;
+    }
 }
