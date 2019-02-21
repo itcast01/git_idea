@@ -10,7 +10,7 @@ public class FirstClass {
         System.out.println("哈哈哈哈哈哈哈或");
         System.out.println("哈哈哈哈哈哈哈或");
         System.out.println("哈哈哈哈哈哈哈或");
-        System.out.println("哈哈哈哈哈哈哈或");
+        //System.out.println("哈哈哈哈哈哈哈或");
         System.out.println("哈哈哈哈哈哈哈或");
         //哈哈
     }
