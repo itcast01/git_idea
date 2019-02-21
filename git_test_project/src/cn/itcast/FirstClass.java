@@ -20,5 +20,6 @@ public class FirstClass {
         int a =0;
         a+=10;
         System.out.println(a);
+        //这是我clone的东西
     }
 }
