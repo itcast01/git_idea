@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="uploadtp:war">
+    <output-path>$PROJECT_DIR$/../uploadtp/target</output-path>
+    <root id="archive" name="uploadtp.war">
+      <element id="artifact" artifact-name="uploadtp:war exploded" />
+    </root>
+  </artifact>
+</component>

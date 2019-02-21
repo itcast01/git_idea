@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day01_eesy_02factory" />
+        <module name="day01_eesy_o3spring" />
+        <module name="day02_eesy_03account_annoioc" />
+        <module name="jdbc_oracle" />
+        <module name="maven_day02_1" />
+        <module name="springmvc_day01_01_start" />
+        <module name="springmvc_day02_01_response" />
+        <module name="springmvc_day02_02_fileupload" />
+        <module name="ssm" />
+        <module name="uploadtp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day01_eesy_02factory" target="1.8" />
+      <module name="day01_eesy_04bean" target="1.8" />
+      <module name="day01_eesy_05DI" target="1.8" />
+      <module name="day01_eesy_o3spring" target="1.8" />
+      <module name="day02_eesy_01anno_ioc" target="1.8" />
+      <module name="day02_eesy_02account_xmlioc" target="1.8" />
+      <module name="day02_eesy_03account_annoioc" target="1.8" />
+      <module name="day02_eesy_04account_annoioc_withoutxml" target="1.8" />
+      <module name="day04_eesy_01jdbc" target="1.8" />
+      <module name="jdbc_oracle" target="1.8" />
+      <module name="maven_day02_1" target="1.8" />
+      <module name="maven_day02_11" target="1.8" />
+      <module name="springmvc_day01_01_start" target="1.8" />
+      <module name="springmvc_day02_01_response" target="1.8" />
+      <module name="springmvc_day02_02_fileupload" target="1.8" />
+      <module name="ssm" target="1.8" />
+      <module name="uploadtp" target="1.8" />
+      <module name="uploadtupian" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

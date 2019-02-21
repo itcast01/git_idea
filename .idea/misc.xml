@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../maven_day02_1" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_day01_01_start" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_day02_01_response" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_day02_02_fileupload" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/../uploadtp" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/day04_eesy_01jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_eesy_02factory/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_eesy_o3spring/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc_day02_01_response/pom.xml" />
+        <option value="$PROJECT_DIR$/../jdbc_oracle/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc_day02_02_fileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/../uploadtp/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven_day02_1/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/day01_eesy_04bean/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
