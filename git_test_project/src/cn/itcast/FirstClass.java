@@ -6,6 +6,8 @@ package cn.itcast;
  */
 public class FirstClass {
     public static void main(String[] args) {
+
+        //这是我最后加的
         System.out.println("哈哈哈哈哈哈哈或");
         System.out.println("哈哈哈哈哈哈哈或");
         System.out.println("哈哈哈哈哈哈哈或");
